@@ -1,0 +1,86 @@
+﻿Build started 2019/10/8 下午 12:24:27.
+     1>Project "C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\大三資工\大三上\電腦圖學\電腦圖學Hw4\Hw4\Source.cpp"
+         Source.cpp
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(36): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(37): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(41): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(86): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(87): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(88): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(95): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(116): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(139): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(140): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(142): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(143): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(144): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(189): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(235): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(236): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(248): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(250): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(251): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(270): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(304): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(318): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(341): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(370): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(375): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(382): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(385): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(389): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(393): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(371): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(410): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(418): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(435): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(671): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(697): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(706): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(733): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(742): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(761): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(851): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(891): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(893): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(894): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(895): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(957): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(967): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(970): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(974): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(977): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(981): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(984): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(951): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1096): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1097): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1100): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1101): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1104): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1105): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1110): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1111): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1114): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1115): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1118): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1119): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1212): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1215): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1218): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1221): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1225): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\大三資工\大三上\電腦圖學\電腦圖學hw4\hw4\source.cpp(1229): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Done Building Project "C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.43
